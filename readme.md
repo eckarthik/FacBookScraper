@@ -2,10 +2,6 @@
 
 A Python Selenium based script to gather all the posts in a particular group
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
 # Features!
 Gathers the following content:
 1. Post content
